@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Modeling_transport_networks"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Modeling_transport_networks">
+				<Option output="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Modeling_transport_networks.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\programms\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\programms\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\programms\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\programms\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\programms\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\programms\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\programms\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 Modeling_transport_networks"/>
+					<CompileFile command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Modeling_transport_networks/fast">
+				<Option output="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Modeling_transport_networks.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\programms\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\programms\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\programms\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\programms\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\programms\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\programms\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\programms\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 Modeling_transport_networks/fast"/>
+					<CompileFile command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/programms/MinGW/bin/mingw32-make.exe -f &quot;D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/main.cpp">
+			<Option target="Modeling_transport_networks"/>
+		</Unit>
+		<Unit filename="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/modeling-core/Cellular Automation/include/Agent.h">
+			<Option target="Modeling_transport_networks"/>
+		</Unit>
+		<Unit filename="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/modeling-core/Cellular Automation/include/CellularAutomaton.h">
+			<Option target="Modeling_transport_networks"/>
+		</Unit>
+		<Unit filename="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/modeling-core/Cellular Automation/src/Agent.cpp">
+			<Option target="Modeling_transport_networks"/>
+		</Unit>
+		<Unit filename="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/modeling-core/Cellular Automation/src/CellularAutomaton.cpp">
+			<Option target="Modeling_transport_networks"/>
+		</Unit>
+		<Unit filename="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/modeling-core/Cellular Automation/src/Environment.cpp">
+			<Option target="Modeling_transport_networks"/>
+		</Unit>
+		<Unit filename="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/modeling-core/Cellular Automation/src/Environment.h">
+			<Option target="Modeling_transport_networks"/>
+		</Unit>
+		<Unit filename="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/modeling-core/graph/include/GNode.h">
+			<Option target="Modeling_transport_networks"/>
+		</Unit>
+		<Unit filename="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/modeling-core/graph/include/NodeId.h">
+			<Option target="Modeling_transport_networks"/>
+		</Unit>
+		<Unit filename="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/modeling-core/graph/src/NListImplLinkedList.h">
+			<Option target="Modeling_transport_networks"/>
+		</Unit>
+		<Unit filename="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/modeling-core/graph/src/NodeImpl.h">
+			<Option target="Modeling_transport_networks"/>
+		</Unit>
+		<Unit filename="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/modeling-core/utils/include/Allocator.h">
+			<Option target="Modeling_transport_networks"/>
+		</Unit>
+		<Unit filename="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/modeling-core/utils/src/AllocatorImpl.h">
+			<Option target="Modeling_transport_networks"/>
+		</Unit>
+		<Unit filename="D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

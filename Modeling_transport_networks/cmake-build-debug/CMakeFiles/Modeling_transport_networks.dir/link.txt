@@ -1,0 +1,3 @@
+"D:\programms\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Modeling_transport_networks.dir/objects.a
+D:\programms\MinGW\bin\ar.exe cr CMakeFiles\Modeling_transport_networks.dir/objects.a @CMakeFiles\Modeling_transport_networks.dir\objects1.rsp
+D:\programms\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Modeling_transport_networks.dir/objects.a -Wl,--no-whole-archive  -o Modeling_transport_networks.exe -Wl,--out-implib,libModeling_transport_networks.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Modeling_transport_networks.dir\linklibs.rsp

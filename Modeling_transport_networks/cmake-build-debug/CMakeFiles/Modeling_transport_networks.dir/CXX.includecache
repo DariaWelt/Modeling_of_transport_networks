@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/main.cpp
+windows.h
+-
+iostream
+-
+conio.h
+-
+cmath
+-
+

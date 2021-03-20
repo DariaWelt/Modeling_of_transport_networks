@@ -1,0 +1,4 @@
+"D:\programms\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\documents\study\programming\python\Modeling_of_transport_networks\Modeling_transport_networks
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/documents/study/programming/python/Modeling_of_transport_networks/Modeling_transport_networks/cmake-build-debug
