@@ -10,6 +10,8 @@
 #include <istream>
 #include "Environment.h"
 
+
+
 class CellularAutomaton {
 private:
     std::size_t _fieldSizeX;

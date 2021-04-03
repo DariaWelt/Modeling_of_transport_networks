@@ -21,11 +21,11 @@ public:
     int getXCoordIntention() const;
     int getYCoordIntention() const;
 
-    bool setAlive(bool isAlive) ;
-    double setSpeed(double speed);
-    double setSpeedUp(double speedUp);
-    int setXCoordIntention(int i);
-    int setYCoordIntention(int j);
+    void setAlive(bool isAlive) ;
+    void setSpeed(double speed);
+    void setSpeedUp(double speedUp);
+    void setXCoordIntention(int i);
+    void setYCoordIntention(int j);
 
 };
 

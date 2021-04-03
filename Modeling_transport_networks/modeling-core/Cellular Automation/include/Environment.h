@@ -21,7 +21,7 @@ private:
 public:
     Environment(Type type, double activatingProbability);
     Type getType() const;
-    bool tryActivate() const
+    bool tryActivate() const;
 };
 
 
